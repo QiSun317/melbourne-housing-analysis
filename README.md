@@ -84,7 +84,7 @@ melbourne-housing-analysis/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/melbourne-housing-analysis.git
+   git clone https://github.com/QiSun317/melbourne-housing-analysis.git
    ```
 2. Install dependencies:
    ```bash
